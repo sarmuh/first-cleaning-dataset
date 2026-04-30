@@ -1,4 +1,4 @@
-Loyiha maqsadi: "Ushbu loyihada Pandas yordamida ma'lumotlarni tozalash jarayonini mashq qildim."
+Loyiha maqsadi: ""
 
 Bajarilgan ishlar: "Bo'sh qiymatlar o'chirildi, ustun nomlari standart holatga keltirildi."
 
